@@ -1,13 +1,9 @@
-# How to Understand Dieting
+# How to Understand Dieting (WIP)
+by Tutorial Doctor
 
-(Work in Progress)
 
 This guide is based on my [snapguide](https://snapguide.com/guides/understand-dieting/)
 
-Squash the mysticism
-
-
-by Tutorial Doctor
 
 
 The most important parts of an effective diet are **CALORIES, PROTEIN, FAT, AND CARBOHYDRATES.**
