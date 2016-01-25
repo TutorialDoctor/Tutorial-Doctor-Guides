@@ -1,6 +1,7 @@
 # How to Understand Dieting
 
 (Work in Progress)
+
 This guide is based on my [snapguide](https://snapguide.com/guides/understand-dieting/)
 
 Squash the mysticism
