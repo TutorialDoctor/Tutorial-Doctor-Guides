@@ -1,5 +1,5 @@
 # How to Understand Dieting (WIP)
-by Tutorial Doctor
+by The Tutorial Doctor
 
 
 This guide is based on my [snapguide](https://snapguide.com/guides/understand-dieting/)
