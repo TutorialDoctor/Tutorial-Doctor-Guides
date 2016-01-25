@@ -221,13 +221,13 @@ Joe is 100lbs and wants to build muscle fast. He eats more calories than his mai
 
 # Extras
 
-Check out ACALORIECOUNTER.COM/DIET/ for more detailed explanation.
+Check out http://www.acaloriecounter.com for more detailed explanation.
 
 
-The LIVESTRONG.COM app is a great aid for your diet plan! It also uses the HARRIS BENEDICT FORMULA!
+The http://www.livestrong.com has a great app to aid for your diet plan! It also uses the HARRIS BENEDICT FORMULA!
 
 
-The Calca app (mentioned in my super calculator guide) has a built in example for the Harris Benedict formula. Great resource!  It can convert units if you want it to.
+The [Calca app](https://itunes.apple.com/us/app/calca/id635757879?mt=8) (mentioned in my super calculator guide) has a built in example for the Harris Benedict formula. Great resource!  It can convert units if you want it to.
 
 
 Workout Routines coming soon... Stay tuned...
