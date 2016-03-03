@@ -9,7 +9,7 @@ This guide is based on my [snapguide](https://snapguide.com/guides/understand-di
 The most important parts of an effective diet are **CALORIES, PROTEIN, FAT, AND CARBOHYDRATES.**
 
 
-# CALORIES
+## CALORIES
 
 
 No matter what you have heard, the most important part of a diet is CALORIES. Everything we EAT and DRINK contains calories. However, everything we DO burns calories.
@@ -52,18 +52,18 @@ Your CALORIC MAINTENANCE LEVEL(CML) is the amount of calories per day you need t
 
 There are 3 ways to find out:
 
-## METHOD #1:
+### METHOD #1:
 
 
 Multiply your CURRENT WEIGHT by 14. Then multiply your current weight by 17. Your CALORIC MAINTENANCE LEVEL is somewhere between these two numbers. If you weigh 100lbs it should be 1400-1700 calories.
 
-## METHOD #2: Use the HARRIS BENEDICT FORMULA:
+### METHOD #2: Use the HARRIS BENEDICT FORMULA:
 
 
 There are many factors that determine your maintenance level. Things like GENDER, AGE, WEIGHT, METABOLIC RATE etc. This formula takes all that into account and gives you a better estimate.
 
 
-## METHOD #3: Experiment! EAT AND SEE!
+### METHOD #3: Experiment! EAT AND SEE!
 
 
 Eat a certain amount (daily) for a week and weigh in. Eat another amount (daily) for another week and weigh in. If you gain weight, cut back, if it stays the same YOU GOT IT!
@@ -78,7 +78,7 @@ This is the ideal amount of SURPLUS you need to eat to gain weight. For men it i
 To get an ideal DEFICIT for loosing weight, just eat 20% less than your CML. (Multiply your CML by .2) This is how FEWER calories you should eat to loose weight.
 
 
-# PROTEIN
+## PROTEIN
 
 
 Since when you exercise you BREAK DOWN your muscles, protein helps BUILD UP, or REPAIR your muscles. Protein also signals the body to BURN FAT but to BUILD muscle. It also keeps you full!
@@ -99,7 +99,7 @@ To figure out how many calories that is, just multiply it by 4. If your CW is 10
 Just go back and read it carefully. hehe
 
 
-# FAT
+## FAT
 
 Now you need some FAT! YES! YOU NEED FAT! Because fat stores energy! But there is GOOD FAT and there is BAD FAT.
 
@@ -121,7 +121,7 @@ TRANS FAT is the BAAAAAD FAT! If it has trans fat in it, it is deadly. Cancer, h
 Fried foods, fast food, chips, cookies, doughnuts, and other crappy foods. TRANS FAT! DANGER! No wonder they are cheap and easy to get.
 
 
-## SATURATED FAT 
+### SATURATED FAT 
 is bad fat also! But it is not as bad as TRANS FAT. In moderation, saturated fat may not be harmful, but it is still bad.
 
 
@@ -129,14 +129,14 @@ is bad fat also! But it is not as bad as TRANS FAT. In moderation, saturated fat
 Beef, veal, lamb, pork, dairy from whole milk (cheese, butter), poultry skin, coconut oil, palm oil. SATURATED FAT! CAUTION!
 
 
-## POLYUNSATURATED FAT! GOOD FAT! 
+### POLYUNSATURATED FAT! GOOD FAT! 
 Lowers your bad LDL levels and increases your good HDL levels! GREEN LIGHT!
 
 
 Omega 6- vegetable oil, nuts Omega 3- fatty acid, fish, fish oil supplements. POLYUNSATURATED FATS
 
 
-## MONOUNSATURATED FAT! GOOD FAT! 
+### MONOUNSATURATED FAT! GOOD FAT! 
 Decreases chance for cancer and heart disease. Lowers bad LDL levels and increases good HDL levels! GREEN LIGHT!!
 
 
@@ -157,7 +157,7 @@ To figure that out in GRAMS just divide it by 9.
 > Eating doesn't make you fat! FAT MAKES YOU FAT!
 
 
-# CARBOHYDRATES
+## CARBOHYDRATES
 
 
 > Secret...
@@ -178,11 +178,11 @@ There are different TYPES of Carbohydrates. SIMPLE and COMPLEX, HIGH GLYCEMIC an
 Simple carbs have a simple structure. It digests and absorbs sugar and things faster. BAD! Complex carbs have a complex structure and digests sugar and junk slower. GOOD!
 
 
-## Simpler
+### Simpler
 Diabetes, high blood sugar
 
 
-## Complex
+### Complex
 GOOD!
 
 
@@ -192,13 +192,13 @@ High Glycemic carbs break down and release glucose to the blood stream rapidly. 
 Foods are usually categorized by their GLYCEMIC INDEX.
 
 
-## HIGH GLYCEMIC! BAD!
+### HIGH GLYCEMIC! BAD!
 
 
-## LOW GLYCEMIC. GOOD!
+### LOW GLYCEMIC. GOOD!
 
 
-## Veggies! GOOD!
+### Veggies! GOOD!
 
 
 Do a little bit of research on the GLYCEMIC LOAD of a food.
@@ -212,14 +212,14 @@ I guess you get the point
 Once you have your CALORIES FROM PROTEIN (CFP) and your CALORIES FROM FAT (CFF), the rest of your calories should be your CALORIES FROM CARBOHYDRATES (CFCR)
 
 
-# Sample
+## Sample Diet
 
 
  
 
 Joe is 100lbs and wants to build muscle fast. He eats more calories than his maintenance level and exercises regularly. And to be healthy he eats GOOD FAT and GOOD CARBS. BAM!
 
-# Extras
+## Extras
 
 Check out http://www.acaloriecounter.com for more detailed explanation.
 
