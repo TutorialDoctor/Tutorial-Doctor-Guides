@@ -15,7 +15,7 @@ If an app is useful or reliable HALF of the time, it gets HALF the score. So an 
 ## Art
 - InkPad (removed)(mb)($)
 - [Art Set Pro](https://itunes.apple.com/us/app/art-set-pro-edition/id728530673?mt=8) (iPad)(mb)($)
-- [Concepts](https://itunes.apple.com/us/app/concepts-smarter-sketching/id560586497?mt=8)(mb)($)
+- [Concepts](https://itunes.apple.com/us/app/concepts-smarter-sketching/id560586497?mt=8) (mb)($)
 - Eraser (mb)($)
 - [Procreate +](https://itunes.apple.com/us/app/procreate-sketch-paint-create./id425073498?mt=8) (mb)($)
 
