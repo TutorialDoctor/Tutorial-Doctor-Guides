@@ -90,6 +90,7 @@ If an app is useful or reliable HALF of the time, it gets HALF the score. So an 
 - EasyBib (mb)($)
 - iBooks (mb)($)
 
+
 ## Shopping
 
 - Amazon (mb)($)
@@ -111,6 +112,7 @@ If an app is useful or reliable HALF of the time, it gets HALF the score. So an 
 - Speedtest (mb)($)
 - Amount (mb)($)
 - MCBackup (mb)($)
+- Whitepages (mb)($)
 
 ## Weather
 - Coming Soon
