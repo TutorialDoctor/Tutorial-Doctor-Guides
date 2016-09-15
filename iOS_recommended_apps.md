@@ -14,29 +14,28 @@ If an app is useful or reliable HALF of the time, it gets HALF the score. So an 
 
 ## Art
 - InkPad (removed)(mb)($)
-- Art Set Pro(mb)($)
-- InkPad(mb)($)
-- Concepts(mb)($)
+- [Art Set Pro](https://itunes.apple.com/us/app/art-set-pro-edition/id728530673?mt=8) (iPad)(mb)($)
+- [Concepts](https://itunes.apple.com/us/app/concepts-smarter-sketching/id560586497?mt=8)(mb)($)
 - Eraser(mb)($)
-- Procreate (mb)($)
+- [Procreate +](https://itunes.apple.com/us/app/procreate-sketch-paint-create./id425073498?mt=8) (mb)($)
 
 ## Business
-- Slack (mb)($)
-- Calca(mb)($)
-- LinkedIn (mb)($)
+- [Slack](https://itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8) (mb)($)
+- [Calca +](https://itunes.apple.com/us/app/calca/id635757879?mt=8)(mb)($)
+- [LinkedIn](https://itunes.apple.com/us/app/linkedin/id288429040?mt=8) (mb)($)
 
 
 ## Education
 
-- iTunes U (mb)($)
-- Udemy (mb)($)
-- WWDC
+- [iTunes U +](https://itunes.apple.com/us/app/itunes-u/id490217893?mt=8) (mb)($)
+- [Udemy +](https://itunes.apple.com/us/app/udemy-online-courses/id562413829?mt=8) (mb)($)
+- [WWDC +](https://itunes.apple.com/us/app/wwdc/id640199958?mt=8)
 
 
 ## Entertainment
-- Youtube (mb)($)
-- Netflix
-- Hulu
+- [Youtube +](https://itunes.apple.com/us/app/youtube/id544007664?mt=8) (mb)($)
+- [Netflix](https://itunes.apple.com/us/app/netflix/id363590051?mt=8)
+- [Hulu](https://itunes.apple.com/us/app/hulu-watch-latest-episodes/id376510438?mt=8)
 
 
 ## Finance
@@ -55,25 +54,25 @@ If an app is useful or reliable HALF of the time, it gets HALF the score. So an 
 - Coming Soon
 
 ## Lifestyle
-- Snapguide (mb)($)
+- [Snapguide](https://itunes.apple.com/us/app/snapguide-how-tos-recipes/id421477397?mt=8) (mb)($)
 
 ## Medical
-- iTriage (mb)($)
+- [iTriage +](https://itunes.apple.com/us/app/itriage-health-doctor-symptoms/id304696939?mt=8) (mb)($)
 
 ## Music
 
-- Garageband (mb)($)
+- [Garageband +](https://itunes.apple.com/us/app/garageband/id408709785?mt=8) (mb)($)
 
 ## Navigation
-- Maps.me (mb)($)
+- [Maps.me +](https://itunes.apple.com/us/app/maps.me-offline-map-navigation/id510623322?mt=8) (mb)($)
 
 ## News
 
-- Flipboard (mb)($)
+- [Flipboard +](https://itunes.apple.com/us/app/flipboard-your-social-news/id358801284?mt=8) (mb)($)
 
 ## Photo & Video
 
-- Snapseed (mb)($)
+- [Snapseed +](https://itunes.apple.com/us/app/snapseed/id439438619?mt=8) (mb)($)
 
 ## Productivity
 - Trello (mb)($)
