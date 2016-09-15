@@ -75,43 +75,43 @@ If an app is useful or reliable HALF of the time, it gets HALF the score. So an 
 - [Snapseed +](https://itunes.apple.com/us/app/snapseed/id439438619?mt=8) (mb)($)
 
 ## Productivity
-- Trello (mb)($)
-- Workflow (mb)($)
-- Pythonista (mb)($)
-- Dropbox (mb)($)
-- Documents By Readdle (mb)($)
-- Editorial (mb)($)
-- Google Docs (mb)($)
-- Google Drive (mb)($)
+- [Trello +](https://itunes.apple.com/us/app/trello/id461504587?mt=8) (mb)($)
+- [Workflow +](https://itunes.apple.com/us/app/workflow-powerful-automation/id915249334?mt=8) (mb)($)
+- [Pythonista +](https://itunes.apple.com/us/app/pythonista/id528579881?mt=8) (mb)($)
+- [Dropbox +](https://itunes.apple.com/us/app/dropbox/id327630330?mt=8) (mb)($)
+- [Documents By Readdle +](https://itunes.apple.com/us/app/documents-5-file-manager-pdf/id364901807?mt=8) (mb)($)
+- [Editorial +](https://itunes.apple.com/us/app/editorial/id673907758?mt=8) (mb)($)
+- [Google Docs +](https://itunes.apple.com/us/app/google-docs/id842842640?mt=8) (mb)($)
+- [Google Drive +](https://itunes.apple.com/us/app/google-drive-free-online-storage/id507874739?mt=8) (mb)($)
 
 ## Reference
-- Bible.is (mb)($)
-- EasyBib (mb)($)
-- iBooks (mb)($)
+- [Bible.is +](https://itunes.apple.com/us/app/bible.is-dramatized-audio/id378075859?mt=8) (mb)($)
+- [EasyBib +](https://itunes.apple.com/us/app/easybib-automatic-bibliography/id436768184?mt=8) (mb)($)
+- [iBooks]() (mb)($)
 
 
 ## Shopping
 
-- Amazon (mb)($)
+- [Amazon +](https://itunes.apple.com/us/app/amazon-app-shop-scan-compare/id297606951?mt=8) (mb)($)
 
 
 ## Social
 
-- Twitter (mb)($)
-- Facebook (mb)($)
-- Facebook Messenger (mb)($)
-- Google Hangouts (mb)($)
+- [Twitter +](https://itunes.apple.com/us/app/twitter/id333903271?mt=8) (mb)($)
+- [Facebook +](https://itunes.apple.com/us/app/facebook/id284882215?mt=8) (mb)($)
+- [Facebook Messenger +](https://itunes.apple.com/us/app/messenger/id454638411?mt=8) (mb)($)
+- [Google Hangouts +](https://itunes.apple.com/us/app/hangouts/id643496868?mt=8) (mb)($)
 
 ## Travel
-- Kayak (mb)($)
+- [Kayak +](https://itunes.apple.com/us/app/kayak-flights-hotels-cars/id305204535?mt=8) (mb)($)
 
 ## Utilities
 
-- 1Password (mb)($)
-- Speedtest (mb)($)
-- Amount (mb)($)
-- MCBackup (mb)($)
-- Whitepages (mb)($)
+- [1Password +](https://itunes.apple.com/us/app/1password-password-manager/id568903335?mt=8) (mb)($)
+- [Speedtest +](https://itunes.apple.com/us/app/speedtest.net-speed-test/id300704847?mt=8) (mb)($)
+- [Amount +](https://itunes.apple.com/us/app/amount-unit-currency-converter/id560750783?mt=8) (mb)($)
+- [MCBackup +](https://itunes.apple.com/us/app/my-contacts-backup/id446784593?mt=8) (mb)($)
+- [Whitepages +](https://itunes.apple.com/us/app/whitepages/id287734809?mt=8) (mb)($)
 
 ## Weather
 - Coming Soon
