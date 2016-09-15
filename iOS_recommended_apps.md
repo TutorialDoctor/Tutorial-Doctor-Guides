@@ -80,7 +80,7 @@ If an app is useful or reliable HALF of the time, it gets HALF the score. So an 
 - Workflow (mb)($)
 - Pythonista (mb)($)
 - Dropbox (mb)($)
-- Documents By Riddle (mb)($)
+- Documents By Readdle (mb)($)
 - Editorial (mb)($)
 - Google Docs (mb)($)
 - Google Drive (mb)($)
