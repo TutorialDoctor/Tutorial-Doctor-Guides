@@ -13,7 +13,7 @@ If an app is useful or reliable HALF of the time, it gets HALF the score. So an 
 *This list will grow over time.*
 
 ## Art
-- InkPad (removed)(mb)($)
+- InkPad (removed)(mb)($) (you can still find it somewhere though. It's open source)
 - [Art Set Pro](https://itunes.apple.com/us/app/art-set-pro-edition/id728530673?mt=8) (iPad)(mb)($)
 - [Concepts](https://itunes.apple.com/us/app/concepts-smarter-sketching/id560586497?mt=8) (mb)($)
 - Eraser (mb)($)
@@ -24,6 +24,12 @@ If an app is useful or reliable HALF of the time, it gets HALF the score. So an 
 - [Calca +](https://itunes.apple.com/us/app/calca/id635757879?mt=8)(mb)($)
 - [LinkedIn](https://itunes.apple.com/us/app/linkedin/id288429040?mt=8) (mb)($)
 
+## Development
+- [Pythonista +](https://itunes.apple.com/us/app/pythonista/id528579881?mt=8) (mb)($)
+- [Swift Playgrounds](https://itunes.apple.com/us/app/swift-playgrounds/id908519492?mt=8)
+- [Contiuous +](https://itunes.apple.com/us/app/continuous-.net-c-and-f-ide/id1095213378?mt=8)
+- [Codea](https://itunes.apple.com/us/app/codea/id439571171?mt=8)
+- [Hyperpad](https://itunes.apple.com/us/app/hyperpad-create-interactive/id886106438?mt=8)
 
 ## Education
 
@@ -62,6 +68,7 @@ If an app is useful or reliable HALF of the time, it gets HALF the score. So an 
 ## Music
 
 - [Garageband +](https://itunes.apple.com/us/app/garageband/id408709785?mt=8) (mb)($)
+- [TF7 Synth](https://itunes.apple.com/us/app/tf7-synth/id718101734?mt=8)
 
 ## Navigation
 - [Maps.me +](https://itunes.apple.com/us/app/maps.me-offline-map-navigation/id510623322?mt=8) (mb)($)
@@ -77,12 +84,12 @@ If an app is useful or reliable HALF of the time, it gets HALF the score. So an 
 ## Productivity
 - [Trello +](https://itunes.apple.com/us/app/trello/id461504587?mt=8) (mb)($)
 - [Workflow +](https://itunes.apple.com/us/app/workflow-powerful-automation/id915249334?mt=8) (mb)($)
-- [Pythonista +](https://itunes.apple.com/us/app/pythonista/id528579881?mt=8) (mb)($)
 - [Dropbox +](https://itunes.apple.com/us/app/dropbox/id327630330?mt=8) (mb)($)
 - [Documents By Readdle +](https://itunes.apple.com/us/app/documents-5-file-manager-pdf/id364901807?mt=8) (mb)($)
 - [Editorial +](https://itunes.apple.com/us/app/editorial/id673907758?mt=8) (mb)($)
 - [Google Docs +](https://itunes.apple.com/us/app/google-docs/id842842640?mt=8) (mb)($)
 - [Google Drive +](https://itunes.apple.com/us/app/google-drive-free-online-storage/id507874739?mt=8) (mb)($)
+- [MindNode +](https://itunes.apple.com/us/app/mindnode-delightful-mind-mapping/id312220102?mt=8)
 
 ## Reference
 - [Bible.is +](https://itunes.apple.com/us/app/bible.is-dramatized-audio/id378075859?mt=8) (mb)($)
@@ -101,6 +108,7 @@ If an app is useful or reliable HALF of the time, it gets HALF the score. So an 
 - [Facebook +](https://itunes.apple.com/us/app/facebook/id284882215?mt=8) (mb)($)
 - [Facebook Messenger +](https://itunes.apple.com/us/app/messenger/id454638411?mt=8) (mb)($)
 - [Google Hangouts +](https://itunes.apple.com/us/app/hangouts/id643496868?mt=8) (mb)($)
+- [Pinterest +](https://itunes.apple.com/us/app/pinterest/id429047995?mt=8)
 
 ## Travel
 - [Kayak +](https://itunes.apple.com/us/app/kayak-flights-hotels-cars/id305204535?mt=8) (mb)($)
