@@ -18,6 +18,8 @@ If an app is useful or reliable HALF of the time, it gets HALF the score. So an 
 - [Concepts](https://itunes.apple.com/us/app/concepts-smarter-sketching/id560586497?mt=8) (mb)($)
 - Eraser (mb)($)
 - [Procreate +](https://itunes.apple.com/us/app/procreate-sketch-paint-create./id425073498?mt=8) (mb)($)
+- [Affinity Photo](https://itunes.apple.com/us/app/affinity-photo/id1117941080?mt=8&ign-mpt=uo%3D4) ($)
+- [Affinity Designer](https://itunes.apple.com/us/app/affinity-designer/id1274090551?mt=8) ($)
 
 ## Business
 - [Slack](https://itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8) (mb)($)
